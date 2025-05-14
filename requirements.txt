@@ -4,7 +4,7 @@ requests-toolbelt>=1.0.0
 pytest==8.2.0
 robokop-genetics==0.6.2
 # intermine is on pypi but as of 6/23 it's broken for python 3.10+, this fork fixes the issue
-git+https://github.com/EvanDietzMorris/intermine-ws-python.git
+intermine
 jsonlines==4.0.0
 pyyaml==6.0.1
 beautifulsoup4==4.12.3
